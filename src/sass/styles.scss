@@ -1,0 +1,58 @@
+@import "./globals";
+@import "./base_styles";
+
+@media screen and (min-width: 900px) {
+    .getStartedCardDivStyle {
+        margin-top: 50px;
+    }
+}       
+
+.page-section {
+    width: 100%;
+    min-height: 40vh;
+    box-sizing: border-box;
+    padding: 75px 0 50px 0;
+}
+
+.default-background {
+    background: $primary-mid;
+}
+
+.world-background {
+    background: $primary-mid;
+    background-size: 100%;
+    background-position: center-top;
+    background-repeat: no-repeat;
+    background-image: url('/images/world-view.png');
+}
+
+.nav-button {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 60px;
+    padding-right: 60px;
+    width: 240px;
+    padding: 10px;
+    outline: none;
+    border-radius: 22.5px;
+    color: white;
+    border: 1px solid $primary-light-bright;
+    background-color: $primary-light-bright;
+}
+
+.search-button {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 60px;
+    padding-right: 60px;
+    width: 240px;
+    padding: 10px;
+    outline: none;
+    border-radius: 22.5px;
+    color: white;
+    border: 1px solid $primary-light-bright;
+    background-color: $primary-light-bright;
+}
+
