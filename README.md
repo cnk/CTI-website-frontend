@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/civictechindex/CTI-website-frontend)
+
 # Civic Tech Index UI
 [![Maintainability](https://api.codeclimate.com/v1/badges/b47b965c7e14ba1c6b32/maintainability)](https://codeclimate.com/github/civictechindex/CTI-website-frontend/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b47b965c7e14ba1c6b32/test_coverage)](https://codeclimate.com/github/civictechindex/CTI-website-frontend/test_coverage)
